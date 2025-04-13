@@ -9,5 +9,5 @@ Esta es una aplicación interactiva desarrollada con **Streamlit**, que permite 
 - **Gráfico de torta del tipo de combustible:** Visualiza la proporción de los diferentes tipos de combustible utilizados.
 - **Gráfico de dispersión Precio vs Año del Modelo:** Analiza la relación entre el precio del vehículo y su año de modelo, diferenciando por tipo de combustible.
 
-
+El link de la aplicacion por render es : https://primer-proyecto-con-streamlit.onrender.com
 
