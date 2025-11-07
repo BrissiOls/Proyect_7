@@ -1,4 +1,4 @@
-# Proyect_7
+# Proyect_streamlit
 # Análisis de Vehículos en Venta
 
 Esta es una aplicación interactiva desarrollada con **Streamlit**, que permite visualizar y analizar datos de vehículos en venta en Estados Unidos. Utiliza datos cargados desde un archivo CSV (`vehicles_us.csv`) y genera diferentes tipos de gráficos para facilitar la exploración visual.
